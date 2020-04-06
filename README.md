@@ -3,8 +3,8 @@
 This is one of the three notebooks on my Customer Segmentation project. To understand the process of acquiring and cleaning the data, please, visit the **Time Series** part of the project. 
 
 Make sure you check out the other parts:
->* [Forecasting Sales with Prophet]('')
->* [Understanding Your Customers With NLP]('')
+>* [Forecasting Sales with Prophet](https://github.com/rafaelnduarte/Sales_Forecast_Prophet/blob/master/README.md)
+>* [Understanding Your Customers With NLP](https://github.com/rafaelnduarte/Customers_NLP)
 
 For our Customer Segmentation, we'll be doing a **RFM** analysis.
 
